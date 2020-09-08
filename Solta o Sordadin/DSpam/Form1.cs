@@ -25,11 +25,8 @@ namespace DSpam
         public static int unverified;
         public static int invalid;
 
-        public static string bots_paste = "https://pastebin.com/raw/qB2jE1iG";
-
         public Form1()
-        {
-            InitializeComponent();
+(public static string bots_paste = "https://pastebin.com/3a2EmTxj ";)            InitializeComponent();
             player.URL = "musica.mp3";
             player.controls.play();
         }
